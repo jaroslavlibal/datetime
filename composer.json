@@ -1,0 +1,15 @@
+{
+  "name": "jaroslavlibal/datetime",
+  "description": "DateTime helpers",
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "psr-4": {
+      "JaroslavLibal\\DateTime\\": "src/JaroslavLibal/DateTime"
+    }
+  },
+  "require": {
+    "php": "^7.0"
+  }
+}
